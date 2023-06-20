@@ -14,7 +14,7 @@ items:
 
   - title: 'UniS-MMC: Learning Unimodality-supervised Multimodal Contrastive Representations'
     url: https://arxiv.org/abs/2305.09299
-    pub: ACL 2023
+    pub: ACL Findings 2023
     image:
       src: /assets/pubs/UniS-MMC.png
       alt: sand
