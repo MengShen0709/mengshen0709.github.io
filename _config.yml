@@ -63,7 +63,7 @@ github_username:  MengShen0709
 markdown: kramdown
 sass:
     style: :compressed
-# remote_theme: eliottvincent/bay
+remote_theme: eliottvincent/bay
 plugins:
   - jekyll-feed
 
