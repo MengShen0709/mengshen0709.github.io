@@ -60,8 +60,8 @@ url: "https://mengshen0709.github.io" # the base hostname & protocol for your si
 github_username:  MengShen0709
 
 # Build settings
-# theme: bay_jekyll_theme
-remote_theme: eliottvincent/bay
+theme: bay_jekyll_theme
+# remote_theme: eliottvincent/bay
 plugins:
   - jekyll-feed
 
