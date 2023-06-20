@@ -60,7 +60,9 @@ url: "https://mengshen0709.github.io" # the base hostname & protocol for your si
 github_username:  MengShen0709
 
 # Build settings
-theme: bay_jekyll_theme
+markdown: kramdown
+sass:
+    style: :compressed
 # remote_theme: eliottvincent/bay
 plugins:
   - jekyll-feed
@@ -73,14 +75,14 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
