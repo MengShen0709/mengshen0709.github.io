@@ -41,10 +41,12 @@ footer:
     #   link: http://facebook.com/YourFacebookUsername
     - name: LinkedIn
       link: https://www.linkedin.com/in/meng-shen-0b0b5a24a/
-    - name: GitHub
-      link: http://github.com/MengShen0709
     - name: G Scholar
       link: https://scholar.google.com/citations?hl=en&user=gO7fNPkAAAAJ
+    - name: GitHub
+      link: http://github.com/MengShen0709
+    - name: DBLP
+      link: https://dblp.org/pid/03/8774-2.html
     # - name: Dribbble
     #   link: https://dribbble.com/YourDribbbleUsername
     # - name: RSS
