@@ -20,7 +20,7 @@ items:
       alt: sand
     description: Heqing Zou, <strong>Meng Shen</strong>, Chen Chen, Yuchen Hu, Deepu Rajan, Eng Siong Chng
 
-  - title: 'A serverless cloud-fog platform for dnn-based video analytics with incremental learning'
+  - title: 'A Serverless Cloud-fog Platform for Dnn-based Video Analytics with Incremental Learning'
     url: https://arxiv.org/abs/2102.03012
     pub: Arxiv 2021
     image:
