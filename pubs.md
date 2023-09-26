@@ -6,7 +6,7 @@ items:
 
   - title: 'Towards Balanced Active Learning for Multimodal Classification'
     url: https://arxiv.org/abs/2306.08306
-    pub: Arxiv 2023
+    pub: ACMMM 2023
     image:
       src: /assets/pubs/BMMAL.png
       alt: sand
