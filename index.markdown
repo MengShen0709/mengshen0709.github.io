@@ -10,7 +10,7 @@ profile_picture:
 
 ## Welcome to Meng Shen's page!
 
-I am a fifth year PhD student at Nanyang Technological University, Singapore. I am fortunately advised by [Prof. Deepu Rajan](https://www3.ntu.edu.sg/home/ASDRajan/). My research interests are Multi-modal Learning and Human-centric Learning. 
+I am a fifth year PhD student at Nanyang Technological University (**NTU**), Singapore. I am fortunately advised by [Prof. Deepu Rajan](https://www3.ntu.edu.sg/home/ASDRajan/). My research interests are Large Multimodal Language Model, Data-efficient Multi-modal Learning and Balanced Multimodal Learning. 
 
 Here is my [publication list](https://mengshen0709.github.io/pubs).
 
