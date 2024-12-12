@@ -8,7 +8,7 @@ items:
     url: 
     pub: Under Review
     image:
-      src: /assets/pubs/HallucinationLVLM.png
+      src: /assets/img/pubs/HallucinationLVLM.png
       alt: sand
     description: <strong>Meng Shen</strong>, Chengru Song, Minghao Wu, Xinming Hou, Deepu Rajan
 
@@ -16,7 +16,7 @@ items:
     url: 
     pub: ACMMM Asia 2024
     image:
-      src: /assets/pubs/CSMMAL.png
+      src: /assets/img/pubs/CSMMAL.png
       alt: sand
     description: <strong>Meng Shen</strong>, Yake Wei, Jianxiong Yin, Deepu Rajan, Di Hu, Simon See
 
@@ -25,7 +25,7 @@ items:
     url: https://arxiv.org/abs/2401.05746
     pub: ICASSP 2024
     image:
-      src: /assets/pubs/CrossModalDeepfake.png
+      src: /assets/img/pubs/CrossModalDeepfake.png
       alt: sand
     description: Heqing Zou, <strong>Meng Shen</strong>, Yuchen Hu, Chen Chen, Eng Siong Chng, Deepu Rajan
 
@@ -34,7 +34,7 @@ items:
     url: https://arxiv.org/abs/2306.08306
     pub: ACMMM 2023
     image:
-      src: /assets/pubs/BMMAL.png
+      src: /assets/img/pubs/BMMAL.png
       alt: sand
     description: <strong>Meng Shen</strong>, Yizheng Huang, Jianxiong Yin, Heqing Zou, Deepu Rajan, Simon See
 
@@ -42,7 +42,7 @@ items:
     url: https://arxiv.org/abs/2305.09299
     pub: ACL Findings 2023
     image:
-      src: /assets/pubs/UniS-MMC.png
+      src: /assets/img/pubs/UniS-MMC.png
       alt: sand
     description: Heqing Zou, <strong>Meng Shen</strong>, Chen Chen, Yuchen Hu, Deepu Rajan, Eng Siong Chng
 
@@ -50,7 +50,7 @@ items:
     url: https://arxiv.org/abs/2102.03012
     pub: Arxiv 2021
     image:
-      src: /assets/pubs/Serverless.png
+      src: /assets/img/pubs/Serverless.png
       alt: sand
     description: Huaizheng Zhang, <strong>Meng Shen</strong>, Yizheng Huang, Yonggang Wen, Yong Luo, Guanyu Gao, Kyle Guan
 
@@ -59,7 +59,7 @@ items:
     url: https://dl.acm.org/doi/abs/10.1145/3474085.3475430
     pub: ACMMM 2021
     image:
-      src: /assets/pubs/TMMVAE.png
+      src: /assets/img/pubs/TMMVAE.png
       alt: missing data imputation
     description: <strong>Meng Shen</strong>, Huaizheng Zhang, Yixin Cao, Fan Yang, Yonggang Wen
 
